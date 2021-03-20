@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**upcrc-org/upcrc-org** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to UP Competitive Robotics Club (UP CRC)
 
-Here are some ideas to get you started:
+Established in 2020, UP CRC is the first robotics club in UP Diliman. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We are a student organization dedicated to the pursuit and facilitation of competitive robotics in the Philippines.
+
+<p align="center">
+  📫 [Email](mailto:upcrc.org@gmail.com)
+  <a href="https://www.facebook.com/upcrc.org/" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
+  </a>
+</p>
