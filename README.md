@@ -8,10 +8,10 @@ We are a student organization dedicated to the pursuit and facilitation of compe
 
 ### Let's Connect!
 
-<a href="mailto:upcrc.org@gmail.com" target="_blank">
+<a href="mailto:upcrc.org@gmail.com" target="__blank">
   <img src="https://s2.svgbox.net/social.svg?ic=gmail" alt="Gmail" height="50" width="50"/>
 </a>
-<a href="https://www.facebook.com/upcrc.org/" target="_blank">
+<a href="https://www.facebook.com/upcrc.org/" target="__blank">
   <img src="https://s2.svgbox.net/social.svg?ic=facebook" alt="Facebook" height="50" width="50"/>
 </a>
 
