@@ -8,9 +8,9 @@ We are a student organization dedicated to the pursuit and facilitation of compe
 
 <p align="center">
   <a href="mailto:upcrc.org@gmail.com" target="_blank">
-    Email
+    <img src="https://s2.svgbox.net/social.svg?ic=gmail" alt="Gmail"/>
   </a>
   <a href="https://www.facebook.com/upcrc.org/" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
+    <img src="https://s2.svgbox.net/social.svg?ic=facebook" alt="Facebook"/>
   </a>
 </p>
